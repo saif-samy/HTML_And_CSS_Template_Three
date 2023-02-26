@@ -1,6 +1,6 @@
 # HTML_And_CSS_Template_Three
 
-HTML and CSS template three
+Responsive HTML and CSS template
 
 ## Website Link:
 https://saif-samy.github.io/HTML_And_CSS_Template_Three/
